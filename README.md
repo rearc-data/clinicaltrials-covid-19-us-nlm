@@ -4,7 +4,7 @@
 
 # Clinical Studies Related To COVID-19 | ClinicalTrials.gov (US NLM)
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-55n3sf4ls3axe](https://aws.amazon.com/marketplace/pp/prodview-55n3sf4ls3axe).
 
 ## Main Overview:
 This product contains daily updating list of clinical studies related to the coronavirus disease (COVID-19). This data was accessed from ClinicalTrials.gov, a database of privately and publicly funded clinical studies conducted around the world, which is maintained by the United States National Library of Medicine.
