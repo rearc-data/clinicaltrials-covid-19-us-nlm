@@ -2,7 +2,7 @@
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/clinicaltrials-covid-19-us-nlm](https://github.com/rearc-data/clinicaltrials-covid-19-us-nlm).
 
-## Main Overview:
+## Main Overview
 This product contains daily updating list of clinical studies related to the coronavirus disease (COVID-19). This data was accessed from ClinicalTrials.gov, a database of privately and publicly funded clinical studies conducted around the world, which is maintained by the United States National Library of Medicine.
 
 ClinicalTrials.gov is a Web-based resource that provides patients, their family members, health care professionals, researchers, and the public with easy access to information on publicly and privately supported clinical studies on a wide range of diseases and conditions.

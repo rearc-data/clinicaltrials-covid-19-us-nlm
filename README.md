@@ -6,7 +6,7 @@
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-55n3sf4ls3axe](https://aws.amazon.com/marketplace/pp/prodview-55n3sf4ls3axe).
 
-## Main Overview:
+## Main Overview
 This product contains daily updating list of clinical studies related to the coronavirus disease (COVID-19). This data was accessed from ClinicalTrials.gov, a database of privately and publicly funded clinical studies conducted around the world, which is maintained by the United States National Library of Medicine.
 
 ClinicalTrials.gov is a Web-based resource that provides patients, their family members, health care professionals, researchers, and the public with easy access to information on publicly and privately supported clinical studies on a wide range of diseases and conditions.
